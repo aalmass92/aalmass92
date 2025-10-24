@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**aalmass92/aalmass92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate technologist who loves to learn about software and security.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working in Software Security Industry
+- 🌱 I'm always learning new technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about SCA & Fuzz Testing
+- 🎯 My hobbies: Exploring tech events, golf, snowboarding & traveling
+
+## Technologies & Tools
+
+- Languages: Python, C, C++, C#, Go, Rust, Java, Ruby, PHP, SQL, Bash, PowerShell
+- Technologies & Tools: Azure, Docker, Kubernetes, Grafana, Wireshark, Jenkins, GitHub, LDAP, SSH, VPN, HTTP proxies, Postgres, Linux, Microsoft technologies, REST API.
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/ahmed-almass)
+
+
