@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate technologist who loves to learn about software and security.
+I'm a passionate technologist who loves to learn about technology and security.
 
 ## About Me
 
