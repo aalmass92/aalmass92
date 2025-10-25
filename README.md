@@ -8,7 +8,7 @@ I'm a passionate technologist who loves to learn about software and security.
 - 🌱 I'm always learning new technologies
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about SCA & Fuzz Testing
-- 🎯 My hobbies: Exploring tech events, golf, snowboarding & traveling
+- 🎯 My hobbies: Attending tech conferences, golfing, snowboarding, and exploring new destinations.
 
 ## Technologies & Tools
 
